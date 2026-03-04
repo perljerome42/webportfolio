@@ -527,6 +527,7 @@ body::before {
 }
 
 .contact-inner {
+    margin-top: 3rem;
     max-width: 680px;
     margin: 0 auto;
     background: var(--bg-card);
